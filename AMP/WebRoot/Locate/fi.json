@@ -1,0 +1,16 @@
+{
+  "LocaleName": "fi",
+  "TranslationAuthor": "LocalghostFI",
+  "MonthsOfYear": [ "Tammi", "Helmi", "Maalis", "Huhti", "Touko", "Kesä", "Heinä", "Elo", "Syys", "Loka", "Marras", "Joulu" ],
+  "DaysOfWeek": [ "Ma", "Ti", "Ke", "To", "Pe", "La", "Su" ],
+  "LongDaysOfWeek": [ "Maanantai", "Tiistai", "Keskiviikko", "Torstai", "Perjantai", "Lauantai", "Sunnuntai" ],
+  "Strings": {
+    "Username": "Käyttäjänimi",
+    "Password": "Salasana",
+    "Remember Me": "Muista minut",
+    "Welcome to AMP": "Tervetuloa AMPiin",
+    "Login": "Kirjaudu",
+    "Login with Biometrics": "Kirjaudu biometriikalla",
+    "Forgotten login details?": "Unohditko käyttäjätunnuksen ja salasanan?"
+  }
+}
