@@ -3,7 +3,6 @@
 // (c) Atte "Mixerboy24" Oksanen, atte.oksanen@localghost.fi
 // Module: https://deploymentcode.com/backup-provisioning/backup-manager-whmcs-freenas/
 
-<?php
 $_LANG['freenas_servicemanagement_headline'] = 'Palvelun hallinta';
 
 $_LANG['freenas_servicemanagement_tabmenu_services'] = 'Palvelut';
