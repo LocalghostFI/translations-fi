@@ -6,7 +6,7 @@
    - [Backup Manager For WHMCS (FreeNAS / TrueNAS)](https://deploymentcode.com/backup-provisioning/backup-manager-whmcs-freenas/)
      - [x] Finnish / Suomi
      - [x] Swedish / Sweden
-  - [AMP WHMCS](https://cubecoders.com/AMP)
+  - [AMP](https://cubecoders.com/AMP)
     - [x] Finnish / Suomi  
 --- 
 #### Softwares
@@ -14,6 +14,8 @@
     - [x] Finnish / Suomi
   - [WHMCS](https://whmcs.com)
     - [x] Finnish / Suomi
+  - [AMP](https://cubecoders.com/AMP)
+    - [x] Finnish / Suomi 
 
 
 
